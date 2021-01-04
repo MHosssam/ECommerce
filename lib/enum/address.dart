@@ -1,0 +1,1 @@
+enum Address { home, work, }

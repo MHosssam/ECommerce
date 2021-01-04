@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "876313704865",
+    "project_id": "e-commerce-1d147",
+    "storage_bucket": "e-commerce-1d147.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876313704865:android:106ae90f9e727faa40b3e0",
+        "android_client_info": {
+          "package_name": "com.MHosssam.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876313704865-rvrejdp6mtlun5dm4ufbg7lqu06v5i5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_J3OfCZKQRCVRBrJiZSs4z7Qg1Nb0VYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876313704865-rvrejdp6mtlun5dm4ufbg7lqu06v5i5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
